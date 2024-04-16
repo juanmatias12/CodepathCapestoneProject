@@ -51,6 +51,17 @@ Allows users to track their workout Whether their workout is weightlifting in th
 * User can earn streaks for consistent workouts - To enhance motivation, the app will track consecutive days of workouts and reward users with visual streaks, badges, or points.
 
 ### 2. Screen Archetypes
+- [X]   Workout Recording Screen
+    * User can record workouts.
+    * For weightlifting: Enter exercises performed, number of sets, reps per set, and weight used.
+     
+    * <div>
+    <a href="https://www.loom.com/share/cb8d8ea6f3a14df2ab0816a3198fe155">
+    </a>
+    <a href="https://www.loom.com/share/cb8d8ea6f3a14df2ab0816a3198fe155">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/cb8d8ea6f3a14df2ab0816a3198fe155-with-play.gif">
+    </a>
+  </div>
 
 - [ ]   Login Screen
     * User can log in using their credentials.
@@ -59,10 +70,7 @@ Allows users to track their workout Whether their workout is weightlifting in th
 - [ ]   Workout Stream
     * User can view a feed of activities from users they follow.
     * User can like and comment on someone else’s activity.
-- [ ]   Workout Recording Screen
-    * User can record workouts.
-    * For weightlifting: Enter exercises performed, number of sets, reps per set, and weight used.
-    * For running: Enter total miles run, total run time, pace, and heart rate. Sync from GPS-enabled devices.
+
 - [ ]   User Search Screen
     * User can search for other users by usernames or other profile details.
     * User can follow/unfollow other users from search results.
