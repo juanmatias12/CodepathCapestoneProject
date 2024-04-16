@@ -144,3 +144,7 @@ Allows users to track their workout Whether their workout is weightlifting in th
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
+
+### Challenges
+
+- Setting up the workout logging screen was extremely difficult. At first I was only able to get it to track one exercise from a scroll diagram that came from a list of predesignated workouts such as Bench Press, Squats, Deadlift. I changed it so the user can enter the name of their exercsie, if they know the name. I was also facing prbolems with just one exercsie being measured as a workout. That wasn't what I intended but I was able to add multiple exercises for the User to track and they can track all of them as an exercise. 
