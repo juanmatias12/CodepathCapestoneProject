@@ -124,8 +124,8 @@ Allows users to track their workout Whether their workout is weightlifting in th
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+![iOS detail navigation-382](https://github.com/juanmatias12/CapestoneProject/assets/89414610/1ecb8a15-7c2c-4a4c-a365-7b6c8422a624)
+
 
 ### [BONUS] Digital Wireframes & Mockups
 
