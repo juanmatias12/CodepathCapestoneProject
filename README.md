@@ -56,6 +56,15 @@ Allows users to track their workout Whether their workout is weightlifting in th
     * For weightlifting: Enter exercises performed, number of sets, reps per set, and weight used.
      
     * <div>
+    <a href="https://www.loom.com/share/51ce74e6fe1246f6b835fb593ec602e6">
+    </a>
+    <a href="https://www.loom.com/share/51ce74e6fe1246f6b835fb593ec602e6">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/51ce74e6fe1246f6b835fb593ec602e6-with-play.gif">
+    </a>
+  </div>
+
+
+    * <div>
     <a href="https://www.loom.com/share/cb8d8ea6f3a14df2ab0816a3198fe155">
     </a>
     <a href="https://www.loom.com/share/cb8d8ea6f3a14df2ab0816a3198fe155">
@@ -78,7 +87,7 @@ Allows users to track their workout Whether their workout is weightlifting in th
     * User can view detailed information about a workout activity.
     * Displays graphs for strength gains or losses and historical bests.
     * Shows estimated max reps for weightlifting activities.
-- [ ]   Profile Screen
+- [X]   Profile Screen
     * Displays user’s personal workout summary and history.
     * User can view weekly, monthly, and yearly activity recaps.
     * Showcases user's workout streaks and earned rewards.
@@ -112,7 +121,7 @@ Allows users to track their workout Whether their workout is weightlifting in th
     => User Profile Screen (by selecting a searched user)
 - [ ] Activity Detail Screen
     => None, but it allows interaction (like, comment) within the screen.
-- [ ] Profile Screen
+- [X] Profile Screen
     => Activity Detail Screen (by selecting an activity from history)
     => Settings/More Screen (via settings icon)
 - [ ] Settings/More Screen
