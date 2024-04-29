@@ -56,6 +56,14 @@ Allows users to track their workout Whether their workout is weightlifting in th
     * For weightlifting: Enter exercises performed, number of sets, reps per set, and weight used.
      
     * <div>
+    <a href="https://www.loom.com/share/ec8ce776e5e4454f91d1bc12bf52b5e2">
+    </a>
+    <a href="https://www.loom.com/share/ec8ce776e5e4454f91d1bc12bf52b5e2">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ec8ce776e5e4454f91d1bc12bf52b5e2-with-play.gif">
+    </a>
+  </div>
+     
+    * <div>
     <a href="https://www.loom.com/share/51ce74e6fe1246f6b835fb593ec602e6">
     </a>
     <a href="https://www.loom.com/share/51ce74e6fe1246f6b835fb593ec602e6">
@@ -76,14 +84,14 @@ Allows users to track their workout Whether their workout is weightlifting in th
     * User can log in using their credentials.
 - [ ]   Registration Screen
     * User can create a new account using email, phone number, or social media accounts.
-- [ ]   Workout Stream
+- [X]   Workout Stream
     * User can view a feed of activities from users they follow.
     * User can like and comment on someone else’s activity.
 
 - [ ]   User Search Screen
     * User can search for other users by usernames or other profile details.
     * User can follow/unfollow other users from search results.
-- [ ]   Activity Detail Screen
+- [X]   Activity Detail Screen
     * User can view detailed information about a workout activity.
     * Displays graphs for strength gains or losses and historical bests.
     * Shows estimated max reps for weightlifting activities.
@@ -111,15 +119,15 @@ Allows users to track their workout Whether their workout is weightlifting in th
     => Home Tab (after login)
 - [ ] Registration Screen
     => Home Tab (after creating an account)
-- [ ] Workout Stream (Home Tab)
+- [X] Workout Stream (Home Tab)
     => Activity Detail Screen (by selecting a workout activity)
     => User Profile Screen (by tapping on a user's name/photo)
-- [ ] Workout Recording Screen (Record Workout Tab)
+- [X] Workout Recording Screen (Record Workout Tab)
     => Home Tab (after saving the workout)
     => Maybe a confirmation screen ("Workout Saved!")
 - [ ] User Search Screen (Discover Tab)
     => User Profile Screen (by selecting a searched user)
-- [ ] Activity Detail Screen
+- [X] Activity Detail Screen
     => None, but it allows interaction (like, comment) within the screen.
 - [X] Profile Screen
     => Activity Detail Screen (by selecting an activity from history)
